@@ -1,7 +1,4 @@
-# Day 1
+# Day 1 Takeaway
 
-We met with the class and I learned a little about Data Science.
-Please see like [here](apple.com).
-This is my model: please see equation below:
-$$f(x) = x$$
-$$f(x) = \sum_{I=1}^n x_i^3$$
+Today, June 28, we watched a video and discovered the steps needed to recreate the attack-analyzing AI featured in [this](https://www.youtube.com/watch?v=rKl4-zC1WZs) scene. The computer can calculate the velocity of the arm based on how far it moves each frame.
+##
