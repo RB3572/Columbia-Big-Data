@@ -1,5 +1,5 @@
-# Day 1 Notes
-
+## Day 1 Notes
 Today, June 28, we watched a video and discovered the steps needed to recreate the attack-analyzing AI featured in [this](https://www.youtube.com/watch?v=rKl4-zC1WZs) scene. For example, the computer can calculate the velocity of the arm based on how far it moves each frame. Next we discussed what explanatory(x) and response(y) variables are. Given the explanatory variable, a function f() should accurately return the response variable. To create a function, we utilize the data science pipeline. There are two stages. Stage 1 is where most of the work gets done: collecting data, processing the data, machine learning, and backtesting. In Stage 2, everything from stage 1 is packed together into a software package that can be shared with others. We also learned about the different types of response variables: continuous and discrete. Continuous refers to response variables that are constrained by a min and max value, like the temperature or a stock price. A discrete response variable is one that has a finite amount of possibilities, like a dice, or coin toss. Regression analysis is used when y is continuous while classification analysis is used when y is discrete. Finally, we learned a bit of R. By typing a = c(10,20,30), we created vectors. A data.frame allows two vectors to be combined. But, while trying to add vectors with more values than rows in the data.frame, we encountered an error. 
-#What I hope to learn in R
+
+##What I hope to learn in R
 In R, I hope to first familiarize myself with basic functions, such as learning how to modify data frames and basic data types. Later, I wish to learn how to learn machine learning packages like TensorFlow.
