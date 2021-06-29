@@ -43,7 +43,7 @@ rbind(tmp1, d[2:3]) #row bind
 tmp1$ID = c(4,5,6)
 tmp1$ID = c(4,5) # error, wrong amount of numbers
 tmp1
-'''
+'''js
 
 
 ## What I hope to learn in R
