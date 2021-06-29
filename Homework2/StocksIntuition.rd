@@ -1,5 +1,5 @@
 #Prompt: Provide one paragraph of intuition how this can help you interpret
 # the stock market? Hint: think about the stock returns, stock price, and volatility
-<a href="https://ibb.co/Dp3J1pz"><img src="https://i.ibb.co/VmX1LmJ/Rplot.png" alt="Rplot" border="0"></a>
-![](https://ibb.co/Dp3J1pz)
+
+![]([url=https://ibb.co/Dp3J1pz][img]https://i.ibb.co/Dp3J1pz/Rplot.png[/img][/url])
 
