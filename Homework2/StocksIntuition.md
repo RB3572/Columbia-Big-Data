@@ -1,5 +1,5 @@
 #Prompt: Provide one paragraph of intuition how this can help you interpret
 # the stock market? Hint: think about the stock returns, stock price, and volatility
 
-![](https://github.com/yiqiao-yin/SML/blob/main/pics/main2.gif)
+![](https://ibb.co/Dp3J1pz)
 
