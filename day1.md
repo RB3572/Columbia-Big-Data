@@ -7,7 +7,8 @@ Today, June 28, we watched a video and discovered the steps needed to recreate t
 
 'z = TRUE'
 'z = FALSE'
-'''class(z)
+'''
+class(z)
 z*2
 as.numeric(z)
 1+ "true"
