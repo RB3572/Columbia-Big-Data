@@ -1,7 +1,0 @@
-Package: SamplePackage
-Type: Package
-Title: Rishi's Some Random Package
-Version: 0.1.0
-Author: Rishi
-Maintainer: Rishi Bhargava <rishi.bhargav@gmail.com>
-Description: THis paackage contains...
