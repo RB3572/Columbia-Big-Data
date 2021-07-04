@@ -22,7 +22,10 @@ Existing projects include:
 	- MCTS uses past data to tune the parameters used in the MCMC simulation
 		- parameters: mean, standard deviation
 	- Once the parameters create simulated data that is similar to past data, they can be used to make predictions
-- [Sample2](https://archive.ics.uci.edu/ml/index.php)
+- [Sentiment Analysis of Newspapers](https://github.com/dineshdaultani/StockPredictions)
+	- Uses past stock data and newspaper articles
+	- Sentiment of articles analysized using Natural Language Toolkit package (NLTK)
+	- Stock prices and sentiment used as explanatory variables for neural network, stock prediction is the response variable
 - [Sample3](https://paperswithcode.com/datasets)
 
 ## Proposed Model/Algorithm
