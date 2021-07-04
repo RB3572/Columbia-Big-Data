@@ -17,7 +17,11 @@
 ## Benchmark 
 (Explain any similar projects that already exist, as well as ways they differ from your project)
 Existing projects include: 
-- [Sample1](https://www.kaggle.com/datasets)
+- [MCMC Simulation/MCTS](https://github.com/yiqiao-yin/Introduction-to-Machine-Learning-Big-Data-and-Application/blob/main/scripts/R/2021Summer/day_3.R)
+	- MCMC randomly calculates paths that stock price could follow
+	- MCTS uses past data to tune the parameters used in the MCMC simulation
+		- parameters: mean, standard deviation
+	- Once the parameters create simulated data that is similar to past data, they can be used to make predictions
 - [Sample2](https://archive.ics.uci.edu/ml/index.php)
 - [Sample3](https://paperswithcode.com/datasets)
 
