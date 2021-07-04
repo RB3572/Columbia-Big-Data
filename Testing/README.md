@@ -7,7 +7,7 @@
 	<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/RB3572/Capstone">
 </div>
 
-# <p align="center">[Insert Project Topic Name]</p>
+# <p align="center">Machine Learning Stock Predictions</p>
 <p align="center">Rakshit Kaushik, Alessandro Ferrari, Sergio Papa Estefano, Rishi Bhargava</p>
 
 ## Data
@@ -26,7 +26,6 @@ Existing projects include:
 	- Uses past stock data and newspaper articles
 	- Sentiment of articles analysized using Natural Language Toolkit package (NLTK)
 	- Stock prices and sentiment used as explanatory variables for neural network, stock prediction is the response variable
-- [Sample3](https://paperswithcode.com/datasets)
 
 ## Proposed Model/Algorithm
 
