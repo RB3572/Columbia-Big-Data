@@ -12,9 +12,12 @@
 
 ## Data
 Past stock data will be obtained using the quantmod package. Quantmod stands for quantitative financial modeling framework, and it is used to "specify, build, trade, and analyse quantitative financial trading strategies."[(cran.r-project.org)](https://cran.r-project.org/web/packages/quantmod/quantmod.pdf) Opening, high, low, closing, and the adjusted closing prices of a stock can be obtained using the ``` getSymbols() ``` function. It contains data from January 3, 2007 to the day before the current date. 
-(Explination of Data: Include subject, size, variables ect...)
+
+<a href="https://ibb.co/J2163sf"><img src="https://i.ibb.co/ZKj42Mn/022b8d8e-e92d-483b-b2db-4f04446054a9.png" alt="022b8d8e-e92d-483b-b2db-4f04446054a9" border="0"></a>
 
 (Importance of data: Include the goal of the project and its real world aplications).
+- Stock Market Data(opening prices, closing prices, high/low prices) => technology: train an AI model using historical data to predict stock prices => if successful, we can deploy this application as a private option for our group to use when investing => less helpful (comparing with the next example)
+- Stock Market Data(opening prices, closing prices, high/low prices) => technology: train an AI model using historical data to predict stock prices => if successful, we can deploy this application as an open source package for individuals to use when investing => more helpful (community impact)
 ## Benchmark 
 (Explain any similar projects that already exist, as well as ways they differ from your project)
 Existing projects include: 
